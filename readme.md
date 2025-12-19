@@ -1105,3 +1105,9 @@ Blindly trusting that 100% code coverage implies no bugs is [`tox`](tox.wiki)ic.
 
 ---
 
+**Q:** Why did the variable break up with the function??
+
+**A:** It needed more space.
+
+---
+
